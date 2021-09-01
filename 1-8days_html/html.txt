@@ -1,0 +1,56 @@
+День 1
+		зрозуміти струкутуру html(початковий шаблон)
+		div
+		p
+		h1-h6
+		<!-- --> коментар
+		sub sup
+		pre
+		i
+		b
+		em
+		strong *
+		del *
+		ins *
+		спец символи
+		blockquote *
+		br
+		hr
+День 2
+		a(target="_blank", переміщатися якорями по сторінці)
+		form
+		input(text,password,checkbox,radio,file,button,submit) placeholder checked
+		select(option)
+		textarea
+		button
+		span
+День 3
+		main, header, footer, nav, video, article, section, aside, menu	
+		img(png, jpeg, gif, svg) 
+		figure *
+		figcaption *
+День 4
+	ul, ol (start, reversed) li
+	dl(dd,dt) *
+	table td tr th(rowspan,colspan, border)
+День 5
+	code
+	q
+	time
+День 6
+	meter 
+	mark
+	output
+	progress 
+	audio, video(source )
+	wbr *
+	datalist *
+День 7
+	Перерив кожен 7 день, повторяйте попередній матеріал, завершіть дз, відпочиньте
+День 8 - тест по seo
+	SEO https://netpeak.net/ru/blog/optimizatsiya-dlya-novichkov-html-tegi-i-atributy-v-seo/ прочитати і зрозуміти
+	meta
+	Meta robots *
+	Meta viewport *
+	Meta keywords *
+	alternate *
