@@ -25,8 +25,8 @@
 		button
 		span
 День 3
-		main, header, footer, nav, video, article, section, aside, menu	
-		img(png, jpeg, gif, svg) 
+		main, header, footer, nav, video, article, section, aside, menu
+		img(png, jpeg, gif, svg)
 		figure *
 		figcaption *
 День 4
@@ -37,11 +37,12 @@
 	code
 	q
 	time
+	плагін atom-beautify
 День 6
-	meter 
+	meter
 	mark
 	output
-	progress 
+	progress
 	audio, video(source )
 	wbr *
 	datalist *
